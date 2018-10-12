@@ -12,6 +12,8 @@ This codebook shall seek to explain the following how my script achieves the 5 o
 4. Appropriately labels the data set with descriptive variable names.
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+
+
 1. Merges the training and the test sets to create one data set (lines 15 to 29 in the script)
 The given dataset has 2 folders - test and train. Each contains three files, which together make up the complete dataset.
 X_test/X_train - contains the measurements.
